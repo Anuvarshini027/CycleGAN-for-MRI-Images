@@ -5,7 +5,7 @@ T1-weighted images specifically highlight fat tissue, while T2-weighted images h
 T1-weighted → fat issue appear to be bright</br>
 T2-weighted → both fat and water regions appear to be bright</br>
 
-Difference between T1-weighted and T2-weighted</br>
+## Difference between T1-weighted and T2-weighted</br>
 ![image](https://user-images.githubusercontent.com/60288450/154500260-5fba418c-0ee9-4dbd-bbae-852ce0837347.png)
 
 Having both types of MRI scans can drastically enhance the accuracy of diagnosis by providing practitioners with a more comprehensive understanding.</br>
